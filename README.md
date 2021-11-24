@@ -9,3 +9,17 @@
 >This report is based on the project by Hindwai’s International journal of biomedical engineering. It uses deep learning to train the model for COVID-19 detection, the images used here were rooted in Github’s profile. This is an open-source library used for research purposes for the same COVID detection. This repository contains training and validation folders for both normal and COVID positive patient’s chest X-Ray. The Patient’s X-Ray, which was supposed to be tested, was classified into these two binaries, i.e. normal and positive.
 
 >The model consists of a [.py](https://github.com/Jayshil-Patel/COVID-Detection-Using-NN/blob/master/final_code.py) file that contains the model and trained epochs. The model here is trained with the same [dataset](https://github.com/Jayshil-Patel/COVID-Detection-Using-NN/tree/master/CovidDataset) mentioned earlier. For writing, this.py file prerequisites are python, machine learning, deep learning, and neural networks. Due to shortage of time, and vast scope of these subjects all of them could not be fulfilled so all knowledge we have comprises in this project, and topics learned are used in this project.
+
+## Clone
+
+To clone this repository use the following commands
+
+```git
+git clone https://github.com/Jayshil-Patel/COVID-Detection-Using-NN.git
+```
+
+## Aditional resources
+
+I have attached a copy of [report](https://github.com/Jayshil-Patel/COVID-Detection-Using-NN/blob/master/Jayshil%20Patel%20Classificaiton%20of%20COVID%20patients%20usnig%20Neural%20Networks.pdf) in this repository
+
+
